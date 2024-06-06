@@ -1,0 +1,14 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "I am going to learn the concepts of the express.js",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raigagan084@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
